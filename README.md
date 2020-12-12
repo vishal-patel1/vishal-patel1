@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**vishal-patel1/vishal-patel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Vishal Patel][1], and I am a High School student who enjoys coding.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently
+- Learning Electron, React, and [Java][2]
+- Looking into coding competitions
+- Enjoying life
+
+
+
+[1]: mailto:vis142022@gmail.com
+[2]: https://github.com/projects-assignments
