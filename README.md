@@ -17,3 +17,7 @@ I'm currently
 [![Github stats](https://github-readme-stats.vercel.app/api?username=vishal-patel1)](https://github.com/vishal-patel1/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/vishal-patel1/pdf-merger/issues/2) in [vishal-patel1/pdf-merger](https://github.com/vishal-patel1/pdf-merger)
+2. 🎉 Merged PR [#1](https://github.com/vishal-patel1/pdf-merger/pull/1) in [vishal-patel1/pdf-merger](https://github.com/vishal-patel1/pdf-merger)
+3. 💪 Opened PR [#1](https://github.com/vishal-patel1/pdf-merger/pull/1) in [vishal-patel1/pdf-merger](https://github.com/vishal-patel1/pdf-merger)
+<!--END_SECTION:activity-->
