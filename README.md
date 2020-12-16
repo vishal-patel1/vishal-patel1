@@ -10,5 +10,7 @@ I'm currently
 
 
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vishal-patel1)](https://github.com/vishal-patel1/github-readme-stats)
+
 [1]: mailto:vis142022@gmail.com
 [2]: https://github.com/projects-assignments
