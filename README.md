@@ -21,14 +21,3 @@ I'm currently
 
 <br>
 <br>
-
-## My Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=vishal-patel1)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-patel1)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--START_SECTION:activity-->
