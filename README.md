@@ -8,7 +8,7 @@ I'm currently
 
 <br>
 
-## Languages and Tools I Know:
+## Languages and Tools I Use:
 
 <img align="left" alt="Intelij IDEA" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" /> 
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /> 
