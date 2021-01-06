@@ -17,4 +17,4 @@ I'm currently
 <img align="left" alt="Markdown" width="26px" height="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png" />
 <img align="left" alt="linux" width="26px" height="26px" src="https://img.icons8.com/color/96/000000/linux.png" />
 <img align="left" alt="GitHub" width="26px" height="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F91%2FOcticons-mark-github.svg%2F1200px-Octicons-mark-github.svg.png&f=1&nofb=1" /> 
-<img align="left" alt="Latex" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F92%2FLaTeX_logo.svg%2F1200px-LaTeX_logo.svg.png&f=1&nofb=1" />
+<img align="left" alt="Latex" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1920px-LaTeX_logo.svg.png" />
