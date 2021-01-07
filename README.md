@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a High School who likes to code!
+## I'm a High Schooler who likes to code!
 I'm currently
 - Learning Electron and React
 - Looking into coding competitions
